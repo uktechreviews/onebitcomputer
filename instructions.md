@@ -6,7 +6,7 @@
 </p>
 <br>
 
-The programmer uses 8 bits with 4 most significant bits being the opcode (instruction code) below:
+The programmer uses 8 bits with the 4 most significant bits being the opcode (instruction code) below:
 <br>
 <br>
 
