@@ -4,10 +4,10 @@
 <p align="center" width="100%">
     <img width="442" height="154" alt="programmer" src="https://github.com/user-attachments/assets/fe744e02-c4cb-464b-b15a-53f843daa596" />
 </p>
+<br>
 
-<br>
-<br>
 The programmer uses 8 bits with 4 most significant bits being the opcode (instruction code) below:
+<br>
 <br>
 
 |Instruction code|Mnemonic|Action|Notes|
