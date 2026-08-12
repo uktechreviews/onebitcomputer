@@ -22,5 +22,5 @@
 - [x] Automatic programming of RAM chip using Raspberry Pi zero [^2]  
 
 <br>
-[^1]: https://www.youtube.com/playlist?list=PLnw98JPyObn1GUapiXLlGm8RrpQF-J_c1
-[^2]: This also included all the wiring to ensure that I didn't have two signals writing to the data bus at the same time
+[^1]: https://www.youtube.com/playlist?list=PLnw98JPyObn1GUapiXLlGm8RrpQF-J_c1 <br>
+[^2]: This also included all the wiring to ensure that I didn't have two signals writing to the data bus at the same time <br>
