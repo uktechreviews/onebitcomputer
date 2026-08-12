@@ -25,6 +25,11 @@
 - [x] 1 bit push button for data bus
 - [x] result bit
 - [x] testing
+- [ ] Scratch register
+- [ ] Scratch register display
+- [ ] Output register
+- [ ] Output register display
+- [ ] more testing
 
 <br>
 
