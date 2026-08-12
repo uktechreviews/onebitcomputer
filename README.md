@@ -23,4 +23,5 @@
 - [x] Automatic programming of RAM chip using Raspberry Pi zero
 
 <br>
+
 [^1]: https://www.youtube.com/playlist?list=PLnw98JPyObn1GUapiXLlGm8RrpQF-J_c1
