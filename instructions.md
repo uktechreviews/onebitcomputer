@@ -13,6 +13,12 @@
 |0111| XNOR | Exclusive NOR | If RR = D, RR <-- 1|
 |1000| STO | Store | RR --> Data Pin, Write <-- 1|
 |1001| STOC| Store compliment | |
+|1010| IEN | Input enable | D --> IEN Reg|
+|1011| OEN | Output enable | D --> OEN Reg|
+|1100| JMP | Jump ||
+|1101| RTN | Return | Skip next instruction|
+|1110| SKZ | Skip next instruction if RR = 0|
+|1111| NOPF | No change in registers||
 
 
 
