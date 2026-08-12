@@ -6,8 +6,11 @@
 <img width="571" height="428" alt="Development" src="https://github.com/user-attachments/assets/cdf5c670-4923-4ad9-a5b2-a212902e2877" />
 
 <br>
-### Task list
+
+## Task list
+
 <br>
+
 - [x] Automatic clock with variable speed
 - [x] Manual clock progression with debounce
 - [x] Program counter (max 8 bits) 
