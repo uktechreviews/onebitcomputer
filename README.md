@@ -21,6 +21,10 @@
 - [x] Manual DIP switch programming of RAM chip
 - [x] Output from RAM chip
 - [x] Automatic programming of RAM chip using Raspberry Pi zero [^2]
+- [x] Manual data input via DIP switch
+- [x] 1 bit push button for data bus
+- [x] result bit
+- [x] testing
 
 <br>
 
@@ -28,4 +32,4 @@
 
 <br>
 
-[^2]: This also included the steps needed to prevent two signals writing to the data bus at the same time
+[^2]: This also included the steps needed to prevent two signals writing to the programming bus at the same time
