@@ -8,5 +8,9 @@
 |0010| LDC | Load compliment of data | |
 |0011| AND | Logical AND | RR . D --> RR|
 |0100| ANDC| Logical AND compliment ||
+|0101| OR | Logical OR | RR + D --> RR|
+|0110| ORC | Logical OR compliment ||
+|0111| XNOR | Exclusive NOR | If RR = D, RR <-- 1|
+
 
 
