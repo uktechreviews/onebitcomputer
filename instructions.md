@@ -11,6 +11,9 @@
 |0101| OR | Logical OR | RR + D --> RR|
 |0110| ORC | Logical OR compliment ||
 |0111| XNOR | Exclusive NOR | If RR = D, RR <-- 1|
+|1000| STO | Store | RR --> Data Pin, Write <-- 1|
+|1001| STOC| Store compliment | |
+
 
 
 
