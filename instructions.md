@@ -3,7 +3,10 @@
 
 The programmer uses the following 16 instruction set.
 
-<img width="442" height="154" align="centre" alt="programmer" src="https://github.com/user-attachments/assets/fe744e02-c4cb-464b-b15a-53f843daa596" />
+<p align="center" width="100%">
+    <img width="442" height="154" alt="programmer" src="https://github.com/user-attachments/assets/fe744e02-c4cb-464b-b15a-53f843daa596" />
+</p>
+
 
 |Instruction code|Mnemonic|Action|Notes|
 |----------------|--------|------|-----|
