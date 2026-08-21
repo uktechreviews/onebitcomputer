@@ -36,6 +36,7 @@
 
 - [ ] Add diodes to programming bus
 - [ ] Detach Raspberry Pi pico 5V from USB and take from main power rails (keep GND via USB)
+- [ ] Replace Chip enable LED with a larger one
 
 ### Cosmetic / documentation
 <br>
@@ -44,6 +45,8 @@
 - [X] Mount acrylic base
 - [ ] Labels
 - [ ] Graphics
+- [ ] Block diagram
+- [ ] Resources for KS4 and KS5
 
 [^1]: https://www.youtube.com/playlist?list=PLnw98JPyObn1GUapiXLlGm8RrpQF-J_c1
 
