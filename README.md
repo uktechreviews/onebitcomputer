@@ -11,7 +11,6 @@
 ### Main build task list
 
 <br>
-
 - [x] Automatic clock with variable speed
 - [x] Manual clock progression with debounce
 - [x] Program counter (max 8 bits) 
@@ -33,13 +32,11 @@
 
 ### Issues to fix
 <br>
-
 - [ ] Add diodes to programming bus
 - [ ] Detach Raspberry Pi pico 5V from USB and take from main power rails (keep GND via USB)
 
 ### Cosmetic / documentation
 <br>
-
 - [X] Order acrylic base
 - [X] Mount acrylic base
 - [ ] Labels
