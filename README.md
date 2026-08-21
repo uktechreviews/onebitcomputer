@@ -35,7 +35,7 @@
 <br>
 
 - [ ] Add diodes to programming bus
-- [ ] 
+- [ ] Detach Raspberry Pi pico 5V from USB and take from main power rails (keep GND via USB)
 
 [^1]: https://www.youtube.com/playlist?list=PLnw98JPyObn1GUapiXLlGm8RrpQF-J_c1
 
