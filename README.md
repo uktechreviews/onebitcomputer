@@ -31,6 +31,7 @@
 - [ ] Output register display
 - [ ] more testing
 
+### Issues to fix
 <br>
 
 [^1]: https://www.youtube.com/playlist?list=PLnw98JPyObn1GUapiXLlGm8RrpQF-J_c1
